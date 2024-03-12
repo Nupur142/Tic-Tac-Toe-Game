@@ -17,4 +17,8 @@ The first player to place three of their marks in a horizontal, vertical, or dia
 - The game will display the current state of the board after each move.
 - Follow the prompts to restart the game or exit.
 
+![Screenshot (74)](https://github.com/Nupur142/Tic-Tac-Toe-Game/assets/91134572/f855116f-4ced-44b4-bd48-638bed931060)
+![Screenshot (75)](https://github.com/Nupur142/Tic-Tac-Toe-Game/assets/91134572/b255438b-6bea-4199-af37-52bd2b4882a7)
+![Screenshot (76)](https://github.com/Nupur142/Tic-Tac-Toe-Game/assets/91134572/8c346126-06ff-4705-bdd7-7d80fe35c20c)
+
 
